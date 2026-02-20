@@ -13,4 +13,4 @@ Mitmachen:
 - Beiträge per Pull Request sind willkommen.
 - Fehler oder Verbesserungsvorschläge bitte als Issue melden.
 
-Viel Erfolg beim Lernen und Üben !
+Viel Erfolg beim Lernen und Üben!
